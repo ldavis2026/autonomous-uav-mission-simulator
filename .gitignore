@@ -1,0 +1,26 @@
+# ROS 2 generated files
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Simulation recordings and generated data
+*.bag
+*.db3
+
+# Operating system files
+.DS_Store
+Thumbs.db
